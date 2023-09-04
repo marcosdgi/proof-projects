@@ -1,2 +1,2 @@
 # proof-projects
-my first´s projects with programming lenguage python 
+Este fue mi primer commit aprendiendo git jjj lo siento que este vacio
